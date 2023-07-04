@@ -1,0 +1,14 @@
+// exercício 2  - respondido com ajuda de ia 
+//dúvida - não consegui usar delay (2000)
+#include <stdio.h>
+#include <unistd.h>
+
+#define POLEGADAS_PARA_MM 25.4
+
+int main() {
+    printf("MEDIDA = 2 POLEGADAS\n");
+    sleep(2);
+    printf("2 POLEGADAS É IGUAL A %.1fmm\n", 2 * POLEGADAS_PARA_MM);
+    return 0;
+
+    return 0;
