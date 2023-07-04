@@ -1,0 +1,10 @@
+// exercício 1
+#include <stdio.h>
+
+int main() {
+        printf("NOME: CLÁUDIO HENRIQUE DE SOUZA\n");
+        printf("DATA DE NASCIMENTO: 14/01/1994\n");
+        printf("Nº DE MATRÍCULA: 2449869\n");
+
+    return 0;
+}
